@@ -1,1 +1,1 @@
-# skin_lesion_classification
+# Two stage framework for skin lesion segmentation and classification
