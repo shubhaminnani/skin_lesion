@@ -27,15 +27,15 @@ For the classification dataset, HAM10000 is used which is available at https://d
 
 ## Segmentation Framework
   ### -- Training
-To train the segmentation data, following code can be used: main.py
+To train the segmentation data, following code can be used: > 'main.py'
 
 ## Classification Framework
   ### -- Training
 Before training the data, first we perform the preprocessing and separate the data classwise.
-To train the classification data, following code can be used: model.py
+To train the classification data, following code can be used: > 'model.py'
 
   ### -- Evaluation
-To evaluate the classifciation model, following code can be used: evaluate.py
+To evaluate the classifciation model, following code can be used: > 'evaluate.py'
 
 
 
