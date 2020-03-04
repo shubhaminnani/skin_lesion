@@ -6,7 +6,7 @@ effort, time and human life. This repo gives algorithm for automated classificat
 ## Dataset:
 
 
-![Segmentation dataset samples](segmentation.png)
+![Segmentation dataset samples](segmentation.PNG)
 
 
 For segmentation, ISIC 2018 Task 1 dataset is used consisting of around 2600 training images. Link to download is https://challenge2018.isic-archive.com/task1/training.
@@ -23,7 +23,7 @@ For the classification dataset, HAM10000 is used which is available at https://d
 | vasc | 327 |
 
 
-![Classfication dataset samples](classification.png)
+![Classfication dataset samples](classification.PNG)
 
 ## Segmentation Framework
   ### -- Training
