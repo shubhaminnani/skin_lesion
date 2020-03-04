@@ -4,6 +4,7 @@ One of the most common types of human malignancies is skin cancer, which is chie
 effort, time and human life. This repo gives algorithm for automated classification of skin lesion with help of segmentation.
 
 ## Dataset:
+
 For segmentation, ISIC 2018 Task 1 dataset is used consisting of around 2600 training images. Link to download is https://challenge2018.isic-archive.com/task1/training.
 
 For the classification dataset, HAM10000 is used which is available at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T. This dataset consists of around 10000 images as shown in table below.
