@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar  4 15:10:48 2020
-
-@author: CoE_28
-"""
 from sklearn.metrics import confusion_matrix
 import matplotlib.pyplot as plt
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
