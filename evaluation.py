@@ -12,7 +12,6 @@ num_test_samples = 1002
 test_batch_size = 8
 image_size = 224
 
-
 test_batches = ImageDataGenerator(
     preprocessing_function= \
         tensorflow.keras.applications.xception.preprocess_input).flow_from_directory(
