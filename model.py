@@ -49,7 +49,6 @@ valid_batches = ImageDataGenerator(
     target_size=(image_size, image_size),
     batch_size=val_batch_size)
 
-
 # Train the model
 # Define Top2 and Top3 Accuracy
 from tensorflow.keras.metrics import categorical_accuracy, top_k_categorical_accuracy
