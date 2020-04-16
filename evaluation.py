@@ -8,6 +8,7 @@ resnet, preprocess_input = Classifiers.get('xception')
 import itertools 
 test_path = 'base_dir/test_dir'
 
+
 num_test_samples = 1002
 test_batch_size = 8
 image_size = 224
