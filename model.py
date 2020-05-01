@@ -21,6 +21,7 @@ import tensorflow
 train_steps = np.ceil(num_train_samples / train_batch_size)
 val_steps = np.ceil(num_val_samples / val_batch_size)
 
+
 # Create a MobileNet model
 from classification_models.tfkeras import Classifiers
 resnet, preprocess_input = Classifiers.get('xception')
