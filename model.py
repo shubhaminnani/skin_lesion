@@ -3,7 +3,6 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.callbacks import ReduceLROnPlateau, ModelCheckpoint
 
-
 # Check if GPU is available
 # K.tensorflow_backend._get_available_gpus()
 
