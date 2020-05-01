@@ -1,7 +1,6 @@
 import numpy as np
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
-
 from tensorflow.keras.callbacks import ReduceLROnPlateau, ModelCheckpoint
 
 # Check if GPU is available
