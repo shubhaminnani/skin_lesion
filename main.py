@@ -8,7 +8,6 @@ from tensorflow.keras.callbacks import ModelCheckpoint
 from keras import backend as K
 import os
 
-
 os.environ["SM_FRAMEWORK"] = "tf.keras"
 import segmentation_models as sm
 
