@@ -15,7 +15,7 @@ For the classification dataset, HAM10000 is used which is available at https://d
 | Disease | Number of images | 
 | :---: | :---: |
 |akiec | 327 |
-| bcc | 514 |
+| bcc | 514  | 
 |bkl | 327 |
 | df | 514 |
 | mel | 327 |
