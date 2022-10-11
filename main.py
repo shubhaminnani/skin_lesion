@@ -11,8 +11,8 @@ import os
 
 os.environ["SM_FRAMEWORK"] = "tf.keras"
 import segmentation_models as sm
-
-data_dir = 'base_dir'
+ 
+data_dir = '/home/usr/base_dir'
 
 smooth=1
 def dice_coef(y_true, y_pred):
