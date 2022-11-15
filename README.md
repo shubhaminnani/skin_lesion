@@ -3,7 +3,7 @@
 One of the most common types of human malignancies is skin cancer, which is chiefly diagnosed visually, initiating with a clinical screening followed by dermoscopic analysis, histopathological assessment, and a biopsy. According to the high similarity between melanoma and nevus lesions, physicians take much more time to investigate these lesions. The automated classification of skin lesions will save 
 effort, time and human life. This repo gives algorithm for automated classification of skin lesion with help of segmentation.
 
-## Dataset:
+## Da taset:
 
 
 ![Segmentation dataset samples](segmentation.PNG)
